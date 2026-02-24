@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "E:\\-\\My project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|e:\\-\\my project\\assets\\script\\bossbattlea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bossbattlea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|e:\\-\\my project\\assets\\script\\factorylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\factorylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|e:\\-\\my project\\assets\\script\\finalbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|E:\\-\\My project\\assets\\script\\finalbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\finalbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BossBattleA.cs",
+              "DocumentMoniker": "E:\\-\\My project\\Assets\\Script\\BossBattleA.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BossBattleA.cs",
+              "ToolTip": "E:\\-\\My project\\Assets\\Script\\BossBattleA.cs",
+              "RelativeToolTip": "Assets\\Script\\BossBattleA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:57:46.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FactoryLog.cs",
               "DocumentMoniker": "E:\\-\\My project\\Assets\\Script\\FactoryLog.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\FactoryLog.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FinalBattle.cs",
               "DocumentMoniker": "E:\\-\\My project\\Assets\\Script\\FinalBattle.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\FinalBattle.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "Assets\\Script\\FinalBattle.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAABIwFkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T06:19:59.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-22T06:19:59.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Portal.cs",
               "DocumentMoniker": "E:\\-\\My project\\Assets\\Script\\Portal.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Portal.cs",
@@ -80,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "NPCInteraction.cs",
               "DocumentMoniker": "E:\\-\\My project\\Assets\\Script\\NPCInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\NPCInteraction.cs",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "E:\\-\\My project\\Assets\\Script\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainMenuManager.cs",
               "DocumentMoniker": "E:\\-\\My project\\Assets\\Script\\MainMenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\MainMenuManager.cs",
@@ -116,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ButtonFixer.cs",
               "DocumentMoniker": "E:\\-\\My project\\Assets\\Script\\ButtonFixer.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ButtonFixer.cs",
